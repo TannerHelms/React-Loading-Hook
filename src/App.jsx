@@ -1,6 +1,6 @@
-import "./App.css";
+import "./index.css";
 import reactLogo from "./assets/react.svg";
-import useLoading from "./assets/useLoading";
+import useLoading from "./useLoading";
 import viteLogo from "/vite.svg";
 
 const loadFunc = () => console.log("Loaded!");
